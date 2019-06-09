@@ -15,4 +15,4 @@ The codes are implemented in MATLAB.
 1. Download data sets into ./datasets
 2. Run Exp1_*.m for experiment 1.
 3. Run Exp2_test_labeled_curve.m for experiment 2.
-4. Run Exp3_test_sample_curve.m for experiment
+4. Run Exp3_test_sample_curve.m for experiment.
