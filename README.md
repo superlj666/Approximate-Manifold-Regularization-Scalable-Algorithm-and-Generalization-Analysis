@@ -8,8 +8,8 @@ The codes are implemented in MATLAB.
 - ./datasets: All datasets are available in https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/.
 - ./data: Store processed data including kernel matrix and graph Laplacian.
 - ./result: Store final results used in the paper.
-- ./methods: Implementation of compared algorithms.
-- ./Test: Tune parameters.
+- ./core_functions: Implementation of compared algorithms.
+- ./parameter_tune: Tune parameters.
 - ./utils: Some utils including constructing kernel matrix and graph Laplacian, drawing curves and optimal parameters setting.
 ## Steps
 1. Download data sets into ./datasets
