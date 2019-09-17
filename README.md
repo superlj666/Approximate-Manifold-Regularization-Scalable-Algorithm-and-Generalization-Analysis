@@ -1,6 +1,6 @@
 # Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis
 Experiment part in Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis.
-The paper has been published in [IJCAI-19](https://www.ijcai.org/proceedings/2019/0400.pdf)
+The paper has been published in [IJCAI-19](https://www.ijcai.org/proceedings/2019/0400.pdf).
 
 # Usage
 The codes are implemented in MATLAB.
