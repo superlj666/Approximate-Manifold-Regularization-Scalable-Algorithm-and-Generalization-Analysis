@@ -1,11 +1,11 @@
 # Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis
 Experiment part in Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis.
-The paper has been accepted by IJCAI-19.
+The paper has been published in [IJCAI-19](https://www.ijcai.org/proceedings/2019/0400.pdf)
 
 # Usage
 The codes are implemented in MATLAB.
 ## Structure
-- ./datasets: All datasets are available in https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/.
+- ./datasets: All datasets are available in [Libsvm Data](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/).
 - ./data: Store processed data including kernel matrix and graph Laplacian.
 - ./result: Store final results used in the paper.
 - ./core_functions: Implementation of compared algorithms.
